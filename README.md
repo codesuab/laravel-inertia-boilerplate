@@ -1,12 +1,12 @@
 # Laravel Inertia React Starter Kit
 
-A clean, modern Laravel 11 starter project using **Inertia.js**, **React**, **Tailwind CSS**, **Vite**, and **Ziggy**. Ideal for building full-stack SPAs with the power of Laravel's backend and React's frontend.
+A clean, modern Laravel 12 starter project using **Inertia.js**, **React**, **Tailwind CSS**, **Vite**, and **Ziggy**. Ideal for building full-stack SPAs with the power of Laravel's backend and React's frontend.
 
 ---
 
 ## 🔥 Stack Overview
 
-- ⚙️ **Laravel 11**
+- ⚙️ **Laravel 12**
 - ⚛️ **React** via Vite
 - 🔗 **Inertia.js** (Client-side SPA routing)
 - 🎨 **Tailwind CSS 3**
@@ -20,7 +20,7 @@ A clean, modern Laravel 11 starter project using **Inertia.js**, **React**, **Ta
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/laravel-inertia-react-starter.git
+git clone https://github.com/sahab-uab/laravel-inertia-boilerplate
 cd laravel-inertia-react-starter
 ```
 
@@ -122,9 +122,14 @@ npm install ziggy-js
 **Usage Example:**
 
 ```js
-import route from 'ziggy-js';
-
-route('dashboard'); // generates route URL like /dashboard
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    @routes
+    @viteReactRefresh
+    @vite('resources/js/app.jsx')
+    @inertiaHead
+</head>
 ```
 
 ---
@@ -182,8 +187,8 @@ This project is open-sourced under the [MIT license](LICENSE).
 
 ## 👤 Author
 
-**Sahab Uddin Ahmed**\
-GitHub: [@your-username](https://github.com/your-username)
+**Sahab Ahmed**\
+GitHub: [@your-username](https://github.com/sahab-uab)
 
 ---
 
