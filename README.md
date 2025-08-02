@@ -20,7 +20,7 @@ A clean, modern Laravel 12 starter project using **Inertia.js**, **React**, **Ta
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/sahab-uab/laravel-inertia-boilerplate
+git clone https://github.com/codesuab/laravel-inertia-boilerplate
 cd laravel-inertia-react-starter
 ```
 
@@ -188,7 +188,7 @@ This project is open-sourced under the [MIT license](LICENSE).
 ## 👤 Author
 
 **Sahab Ahmed**\
-GitHub: [@your-username](https://github.com/sahab-uab)
+GitHub: [@your-username](https://github.com/codesuab)
 
 ---
 
