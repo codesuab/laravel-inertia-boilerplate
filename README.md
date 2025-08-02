@@ -188,7 +188,7 @@ This project is open-sourced under the [MIT license](LICENSE).
 ## 👤 Author
 
 **Sahab Ahmed**\
-GitHub: [@your-username](https://github.com/codesuab)
+GitHub: [@Codesuab](https://github.com/codesuab)
 
 ---
 
